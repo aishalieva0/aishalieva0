@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-https://raw.githubusercontent.com/aishalieva0/aishalieva0/9ca67031ddc49fdf28647cc09411bc9ec6ada8ee/github-contribution-grid-snake.svg
+![image](https://github.com/aishalieva0/aishalieva0/assets/56561786/cd364df8-1267-46fe-a1e3-f39465cea0e3)
+
 
 
 <!--

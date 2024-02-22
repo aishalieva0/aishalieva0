@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![image](https://github.com/aishalieva0/aishalieva0/assets/56561786/cd364df8-1267-46fe-a1e3-f39465cea0e3)
+![image](https://github.com/aishalieva0/aishalieva0/assets/56561786/ed0d663a-81e8-4e87-8907-28968b92ce9f)
+
 
 
 

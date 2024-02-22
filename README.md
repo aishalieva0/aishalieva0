@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+https://raw.githubusercontent.com/aishalieva0/aishalieva0/9ca67031ddc49fdf28647cc09411bc9ec6ada8ee/github-contribution-grid-snake.svg
+
+
 <!--
 **aishalieva0/aishalieva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

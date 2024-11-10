@@ -5,6 +5,10 @@
 [![committers.top badge](https://user-badge.committers.top/azerbaijan/aishalieva0.svg)](https://user-badge.committers.top/azerbaijan/aishalieva0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalieva0&label=Profile%20views&color=0e75b6&style=flat" alt="aishalieva0" /> </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=aishalieva0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aishalieva0&theme=dark&hide_border=false)<br/>
 <!--
 **aishalieva0/aishalieva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

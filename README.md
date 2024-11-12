@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Aisha+Alieva!)](https://git.io/typing-svg)
+
 
 
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>

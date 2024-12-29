@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,javascript,php,laravel,python,html,css,sass&perline=3" alt="Languages" />
+</p>

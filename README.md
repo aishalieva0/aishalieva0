@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,javascript,php,laravel,python,html,css,sass&perline=3" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,javascript,php,laravel,python,html,css,sass&perline=8" alt="Languages" />
 </p>

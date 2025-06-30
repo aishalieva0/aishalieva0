@@ -5,7 +5,7 @@
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
 [![committers.top badge](https://user-badge.committers.top/azerbaijan/aishalieva0.svg)](https://user-badge.committers.top/azerbaijan/aishalieva0)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalieva0&label=Profile%20views&color=0e75b6&style=flat" alt="aishalieva0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalieva0&label=Profile%20views&color=ff69b4&style=flat" alt="aishalieva0" /> </p>
 
 <!--
 **aishalieva0/aishalieva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
